@@ -1,0 +1,21 @@
+{
+  "nombre": "Nati",
+  "apellido": "Quiroga",
+  "email": "nati@mail.com",
+  "sexo": "Female",
+  "telefono": "1111111111",
+  "fechaDeNacimiento": [
+    "December",
+    "1990",
+    "31"
+  ],
+  "materia": "English",
+  "hobbies": [
+    "Sports",
+    "Music"
+  ],
+  "imagen": "mariposa.png",
+  "direccion": "Calle Siempre Viva",
+  "estado": "NCRAA",
+  "ciudad": "Delhi"
+}
